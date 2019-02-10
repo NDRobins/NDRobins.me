@@ -1,0 +1,61 @@
+Body    {
+    background-color: #000;
+}
+
+ul  {
+    list-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left:0;
+}
+
+li   {
+    color: #ffffff;
+}
+
+li.current_page   {
+    color: green;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+p   {
+    border: 5px;
+    color: grey;
+    font-size: 15;
+}
+
+hr  {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.box    {
+    border: solid white 1px;
+}
+
+#nav    {
+    margin: 0px;
+}
+
+h1  {
+    color: #ffffff;
+    font-size: 35;
+}
+
+h2  {
+    color: white;
+    font-size:25;
+}
+
+h3  {
+    color: white;
+    font-size: 20;
+}
